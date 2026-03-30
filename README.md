@@ -14,7 +14,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20"> **Python** - Projetos backend
 
-<img src
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20"> **C** - 
 
 ### Cursos
 - **PC Hardware and Software**
