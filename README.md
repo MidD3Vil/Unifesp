@@ -1,7 +1,7 @@
 # Sobre
 <img src="https://github.com/MidD3Vil/Unifesp/blob/main/unifesp-logo.png">
 
-**Retomei recentemente meus estudos na Faculdade de Tecnologia ( Centro Paula Souza ).  Repositório apenas para atualização de trabalhos e projetos pessoais.**
+**Estou dando continuidade aos meus estudos na Unifesidade Federal de São Paulo ( Unifesp - ICT - SJC ).  Repositório apenas para atualização de trabalhos e projetos pessoais.**
 
 ## Tecnologias Estudadas ( Até o momento )
 
@@ -14,7 +14,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20"> **Python** - Projetos backend
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20"> **C** - 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20"> **C** - Foco em otimização de memória
 
 ### Cursos
 - **PC Hardware and Software**
